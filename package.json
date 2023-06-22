@@ -1,0 +1,23 @@
+{
+  "name": "employeeTracker",
+  "version": "1.0.0",
+  "description": "application to manage the company's employees.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer",
+    "mysql"
+  ],
+  "author": "Adrian Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "mysql2": "^2.3.3"
+  }
+}
